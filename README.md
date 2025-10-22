@@ -98,8 +98,11 @@ ReDoc: http://127.0.0.1:8000/redoc/
 __Md. Nazmul Islam__
 
 🎓 Computer Science & Technology, Rangpur Polytechnic Institute
+
 📧 Email: [nazmulislamfsd@gmail.com
-]🌐 GitHub: nazmulislamfsd
+]
+
+🌐 GitHub: nazmulislamfsd
 
 ## 🌱 Environment Variables
 
